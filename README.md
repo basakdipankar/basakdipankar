@@ -1,20 +1,20 @@
 # Hi, I'm Dipankar Basak 👋
 
-**Senior Platform & DevOps Engineer** | Bengaluru, India
+**Senior DevOps Engineer | Site Reliability Engineering | Platform Engineering** | Bengaluru, India
 
-I build platform infrastructure that lets engineering teams ship faster and more reliably. Over 8.5 years I've worked across the full stack of platform engineering — from designing Internal Developer Platforms and multi-cloud IaC pipelines to SRE practices and, more recently, integrating Generative AI into operational workflows.
+I build platform infrastructure that lets engineering teams ship faster and more reliably. Over **8.75 years** I've worked across the full stack of DevOps and platform engineering — from designing Internal Developer Platforms and multi-cloud IaC pipelines to SRE practices and integrating Generative AI into operational workflows.
 
-Currently at **SAP Labs India**, where I lead platform automation for the SAP BTP ABAP Environment — provisioning 100+ cloud systems weekly across AWS, Azure, GCP, and SAP Converged Cloud via a custom Python/Jenkins IDP I co-designed from the ground up.
+Currently at **SAP Labs India**, where I lead platform automation for the SAP BTP ABAP Environment — provisioning **100+ cloud systems weekly** across AWS, Azure, GCP, and SAP Converged Cloud via a custom Python/Jenkins IDP I designed from the ground up.
 
 ---
 
 ## What I Work On
 
-- **Platform Engineering & IDP** — Designing automation frameworks with declarative interfaces that abstract multi-cloud complexity for engineering teams
-- **SRE & Release Engineering** — Blue-green deployments, event-driven pipelines, continuous validation, and telemetry-gated releases on Kubernetes and Cloud Foundry
-- **Infrastructure as Code** — Terraform-based multi-cloud provisioning (AWS, Azure, GCP), Ansible configuration management, ephemeral containerized build environments
-- **AIOps & Generative AI** — LLM pipelines over InfluxDB via MCP servers, RAG-based incident analysis systems using LangChain and ChromaDB
-- **AI Developer Tooling** — Advocating and enabling AI coding assistants (Claude Code, GitHub Copilot, Cline) in enterprise engineering workflows
+- **Platform Engineering & IDP** — Designing self-service automation frameworks with declarative interfaces and golden path tooling that abstract multi-cloud complexity for engineering teams
+- **SRE & Reliability Engineering** — Blue-green deployments, event-driven pipelines, toil elimination, SLO-based reliability thinking, and telemetry-gated releases on Kubernetes and Cloud Foundry
+- **Infrastructure as Code** — Terraform-based multi-cloud provisioning (AWS, Azure, GCP, SAP Converged Cloud), Ansible configuration management, ephemeral containerized build environments
+- **AIOps & Generative AI** — RAG-based incident analysis systems using LangChain and ChromaDB; LLM-to-InfluxDB operational reporting via MCP servers; AI-driven weekly release quality reports for stakeholder decision-making
+- **AI Developer Tooling** — Advocating and enabling AI coding assistants (Claude Code, GitHub Copilot, Cline) in enterprise engineering workflows across 10+ teams
 
 ---
 
@@ -55,6 +55,7 @@ Currently at **SAP Labs India**, where I lead platform automation for the SAP BT
 | Azure DevOps Engineer Expert | Microsoft | 2024 |
 | Azure Administrator Associate | Microsoft | 2024 |
 | OCI Certified Generative AI Professional | Oracle | 2024 |
+| Generative AI at SAP | OpenSAP | 2024 |
 | Terraform Associate | HashiCorp | 2023 |
 
 ---
