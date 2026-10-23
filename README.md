@@ -2,7 +2,7 @@
 
 **Senior DevOps Engineer | Site Reliability Engineering | Platform Engineering** | Bengaluru, India
 
-I build platform infrastructure that lets engineering teams ship faster and more reliably. Over **8.75 years** I've worked across the full stack of DevOps and platform engineering — from designing Internal Developer Platforms and multi-cloud IaC pipelines to SRE practices and integrating Generative AI into operational workflows.
+I build platform infrastructure that lets engineering teams ship faster and more reliably. Over **9 years** I've worked across the full stack of DevOps and platform engineering — from designing Internal Developer Platforms and multi-cloud IaC pipelines to SRE practices and integrating Generative AI into operational workflows.
 
 Currently at **SAP Labs India**, where I lead platform automation for the SAP BTP ABAP Environment — provisioning **100+ cloud systems weekly** across AWS, Azure, GCP, and SAP Converged Cloud via a custom Python/Jenkins IDP I designed from the ground up.
 
